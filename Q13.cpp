@@ -118,3 +118,4 @@ Input
 2
 2
 */
+//GFG LINK:https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/0
