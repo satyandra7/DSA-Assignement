@@ -3,4 +3,4 @@
 time of queue operations.
 
 
-Solution Link:(https://leetcode.com/problems/implement-queue-using-stacks/submissions/900912158/)
+[Solution Link](https://leetcode.com/problems/implement-queue-using-stacks/submissions/900912158/)
