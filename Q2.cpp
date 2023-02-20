@@ -34,7 +34,7 @@ int main(){
     cin>>w;
     vector<int> max;
     max = maxSlidingWindow(a,w);
-    for(int x : max)
-        cout<<x<<" ";
+    for(int i=0;i<max.size();i++)
+        cout<<max[i]<<" ";
     return 0;
 }
