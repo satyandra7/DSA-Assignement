@@ -5,3 +5,4 @@
 :-
 [GFG Link Q15:-](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 :-
+[Leetcode solution:-](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/884944110/)
