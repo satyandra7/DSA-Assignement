@@ -1,0 +1,6 @@
+#Leetcode Solutin for Q14
+14. Show how to implement one queue efficiently using two stacks. Analyse the running 
+time of queue operations.
+
+
+Solution Link:https://leetcode.com/problems/implement-queue-using-stacks/submissions/900912158/
