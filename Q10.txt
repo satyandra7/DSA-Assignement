@@ -1,0 +1,9 @@
+Q10. Suppose there are two singly linked lists both of which intersect at some point and 
+become a singly list. The head or starting pointers for the both lists are known, but the 
+intersecting node is not known. Also the number of nodes in each of the lists before 
+they intersect is unknown and may be different in each list. List1 may have n nodes 
+before it reaches the intersection point, and list2 might have m nodes before it reaches 
+the intersection point where m and n may be m=n, m<n or m>n. write a program for 
+find a merging node.
+
+[Leetcode Solution Q10:](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/879819958/)
