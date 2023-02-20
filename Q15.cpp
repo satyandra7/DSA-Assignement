@@ -1,6 +1,3 @@
-//Q13.. How do we implement two stacks using only one array? Our stack routines should not 
-//indicate an exception unless every slot in the array is used.
-
 
 //{ Driver Code Starts
 #include<bits/stdc++.h>
