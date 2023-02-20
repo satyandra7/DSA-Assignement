@@ -82,3 +82,4 @@ int QueueStack :: pop()
          q1.pop();
          return temp;
 }
+//GFG Link:https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
