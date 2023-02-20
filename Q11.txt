@@ -1,0 +1,4 @@
+11. Check whether the given linked list is either NULL-terminated or ends in cycle 
+(cyclic).
+
+[Leetcode Solution Q11:](https://leetcode.com/problems/linked-list-cycle/submissions/896575074/)
