@@ -2,6 +2,7 @@
 //number of elements in the list. Assume value of n is not known in advance.
 
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 class node{
@@ -48,12 +49,22 @@ void print(node *head){
     }
     cout<<endl;
 }
-
+int count(node *temp){
+	int c=0;
+	while(temp->next!=NULL){
+		temp=temp->next;
+		c++;
+	}
+	return c;
+}
 int get_rootEle(node *temp){
-    while(temp -> next != NULL){
+	int c=count(temp);
+	c=sqrt(c);
+    while(temp -> next != NULL && c>0){
         temp = temp -> next;
+        c--;
     }
-    return temp -> data;
+    return temp->data;
 
 }
 
